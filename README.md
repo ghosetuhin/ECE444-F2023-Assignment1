@@ -9,3 +9,5 @@
 ## Activity 3
 ![image](https://github.com/ghosetuhin/ECE444-F2023-Assignment1/assets/71938696/86ff75be-9b9a-4720-9ffe-43ed7810c600)
 
+## Activity 4
+![image](https://github.com/ghosetuhin/ECE444-F2023-Assignment1/assets/71938696/530ddc4f-62cf-49d5-9b10-bce05ecf29b2)
