@@ -11,3 +11,10 @@
 
 ## Activity 4
 ![image](https://github.com/ghosetuhin/ECE444-F2023-Assignment1/assets/71938696/530ddc4f-62cf-49d5-9b10-bce05ecf29b2)
+
+## Activity 5
+![image](https://github.com/ghosetuhin/ECE444-F2023-Assignment1/assets/71938696/9b4545ab-890a-4fa4-bbbf-bf9a576866ba)
+### Before rearranging commits
+![image](https://github.com/ghosetuhin/ECE444-F2023-Assignment1/assets/71938696/1414ad9b-49c0-4f9e-8776-b0018032661e)
+### After rearranging commits
+![image](https://github.com/ghosetuhin/ECE444-F2023-Assignment1/assets/71938696/fade2011-d6a4-47a7-b4ca-dea683a77a5c)
